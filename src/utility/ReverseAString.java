@@ -1,4 +1,5 @@
 package utility;
+//how can I change my code 
 
 import java.util.Scanner;
 
